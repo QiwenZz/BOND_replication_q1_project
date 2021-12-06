@@ -1,5 +1,5 @@
 # BOND
-This repo replicates the studt in the paper and referenced the code the authors published.[BOND: BERT-Assisted Open-Domain Name Entity Recognition with Distant Supervision (KDD2020)](https://arxiv.org/abs/2006.15509). It used a dataset with changes since the evaluation result will be a little different. 
+This repo replicates the study in the paper and referenced the code the authors published.[BOND: BERT-Assisted Open-Domain Name Entity Recognition with Distant Supervision (KDD2020)](https://arxiv.org/abs/2006.15509). It used a dataset with changes since the evaluation result will be a little different. 
 
 ## Citation
 ```
